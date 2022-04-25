@@ -1,0 +1,16 @@
+
+#signup-form-div{
+    width: 30%;
+    margin:auto;
+    background-color: rgb(183, 193, 201);
+    padding: 0.5px;
+}
+#signup-form-div input{
+    display:block;
+}
+input{
+    margin: 20px auto;
+    font-size: 25px;
+    border: 2px solid rgb(171, 171, 198);
+    border-radius: 5px;
+}

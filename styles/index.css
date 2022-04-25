@@ -1,0 +1,19 @@
+#navbar{
+    display: flex;
+    justify-content: end;
+}
+#navbar>div{
+    width: 8%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#navbar a{
+    text-decoration: none;
+}
+a, a:visited, a:hover, a:active {
+    color: inherit;
+}
+#slideshow img{
+    display: block;
+    margin: 0% auto;
+}
